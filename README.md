@@ -16,9 +16,7 @@ You will get a result for each premium region, which is a combination of canton 
 - The largest absolute jump is in canton of Waadt, premium region 2 (for instance, Château-d'Oex): 276 to 335 (+ 59 CHF = 17.6%)
 - Basel Stadt has now to highest minimal premiums: 391 CHF.
 
-Check the interactive figure for all these details:
-
-[Interactive plot](https://mayer79.github.io/swiss_health/f2500_noaccident.html)
+[Check the interactive figure for details](https://mayer79.github.io/swiss_health/f2500_noaccident.html)
 
 ## Data
 
