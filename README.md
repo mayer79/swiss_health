@@ -18,7 +18,7 @@ You will get a result for each premium region, which is a combination of canton 
 
 Check the interactive figure for all these details:
 
-[](https://mayer79.github.io/swiss_health/f2500_noaccident.html)
+[Interactive plot](https://mayer79.github.io/swiss_health/f2500_noaccident.html)
 
 ## Data
 
